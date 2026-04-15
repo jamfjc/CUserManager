@@ -205,6 +205,8 @@ Copy
 bash
 
 ```
+<img width="254" height="158" alt="Screenshot 2026-04-15 at 20 07 55" src="https://github.com/user-attachments/assets/805cc335-cb2d-4384-b58b-3c179787f7e5" />
+
 Built With
 C (C99)
 
