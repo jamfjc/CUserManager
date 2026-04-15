@@ -1,0 +1,4 @@
+User ID    User Name            Age    Groups
+--------------------------------------------------------------
+0          root                 33     [root_user, system_users, operator_users, observer_users]
+uniID6     Alice                25     [system_users, observer_users]
